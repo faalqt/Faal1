@@ -6,15 +6,6 @@ This is an iOS app that I am developing in order to learn and practice Swift and
 
 <img src = "https://cdn.discordapp.com/attachments/818283607524769822/1202280958968213504/Simulator_Screenshot_-_iPhone_15_-_2024-01-31_at_10.54.47.png?ex=65cce265&is=65ba6d65&hm=33d1e0d130d6b680fd448eda38007e4be867111741d601810acf7db87bce4bb5&" width=30%>
 </div>
-<style>
-    .photos {
-        display: flex;
-        justify-content: center;
-    }
-    .photos > img { 
-        padding: 20px
-    }
-</style>
 
 ## Future Plans
 - [ ] Transition away from Ergast's API as it's deprecated after the 2024 season 
